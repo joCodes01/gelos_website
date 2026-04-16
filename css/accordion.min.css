@@ -12,7 +12,7 @@
   --color-light-grey: #eee;
   --color-grey: #8a8a8a;
   --color-black: #111;
-  margin-bottom: 8px;
+  margin-bottom: 1rem;
   border: 1px solid var(--color-light-grey);
   background-color: var(--color-white);
   box-sizing: border-box;
@@ -46,9 +46,6 @@
   position: absolute;
   right: 10px;
   top: 50%;
-}
-.ac .ac-trigger:focus {
-  color: var(--color-grey);
 }
 .ac .ac-panel {
   overflow: hidden;
